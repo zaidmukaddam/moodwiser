@@ -21,7 +21,7 @@ const TrackCalendarDay = ({ day, mood }: TrackCalendarDayProps) => {
   return (
     <Box borderRadius="lg" borderWidth="1px" p={2}>
       <VStack>
-        <Text size="md">{day}</Text>
+        <Text fontSize="md">{day}</Text>
         {mood ? (
           <MoodIcon mood={mood} />
         ) : (
