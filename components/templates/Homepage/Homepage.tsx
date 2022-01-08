@@ -65,7 +65,7 @@ const HomePage = () => {
               lineHeight={1.5}
             >
               MoodWiser is a simple, useful and fun habit tracker that keeps
-              you and your friends accountable for each other by giving priases
+              you and your friends accountable for each other by giving praises
               y'all deserve to{" "}
               <Text
                 as="span"

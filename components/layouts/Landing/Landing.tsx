@@ -14,7 +14,7 @@ export default function Landing({ children }: Props) {
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta
           property="og:description"
-          content="MoodWiser is a simple, useful and fun habit tracker that keeps you and your friends accountable for each other by giving priases y'all deserve to reach your goal!"
+          content="MoodWiser is a simple, useful and fun habit tracker that keeps you and your friends accountable for each other by giving praises y'all deserve to reach your goal!"
         />
         <meta
           property="og:image"

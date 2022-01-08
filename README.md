@@ -2,7 +2,7 @@
 
 Live Demo: https://moodwiser.co/
 
-MoodWiser is a simple, useful and fun habit tracker that keeps you and your friends accountable for each other by giving priases y'all deserve to **reach your goal**!
+MoodWiser is a simple, useful and fun habit tracker that keeps you and your friends accountable for each other by giving praises y'all deserve to **reach your goal**!
 
 Check out the [blog post](https://zaidmukaddam.me/moodwiser-fun-habit-tracker-to-keep-everyone-accountable) to get the whole story behind the project!
 
