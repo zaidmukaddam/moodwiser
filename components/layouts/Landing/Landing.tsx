@@ -30,8 +30,8 @@ export default function Landing({ children }: Props) {
           }
         />
         <meta name="twitter:card" content="summary_large_image" />
-        <meta property="twitter:url" content="" />
-        <meta name="twitter:title" content="" />
+        <meta property="twitter:url" content="https://moodwiser.co" />
+        <meta name="twitter:title" content="MoodWiser" />
         <meta name="twitter:description" content="MoodWiser is a simple, minimalistic, useful and fun habit tracker that keeps you and your friends accountable for each other by giving praises y'all deserve to reach your goal!" />
         <meta name="twitter:image" content="/moodwiser.png" />
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
