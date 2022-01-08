@@ -13,7 +13,7 @@ export default function Landing({ children }: Props) {
         <title>MoodWiser</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
         <meta
-          property="description"
+          name="description"
           content="MoodWiser is a simple, minimalistic, useful and fun habit tracker that keeps you and your friends accountable for each other by giving praises y'all deserve to reach your goal!"
         />
         <meta property="og:url" content="https://moodwiser.co" />
