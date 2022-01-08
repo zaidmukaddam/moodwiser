@@ -64,7 +64,7 @@ const HomePage = () => {
               textAlign="center"
               lineHeight={1.5}
             >
-              MoodWiser is a simple, useful and fun habit tracker that keeps
+              MoodWiser is a simple, minimalistic, useful and fun habit tracker that keeps
               you and your friends accountable for each other by giving praises
               y'all deserve to{" "}
               <Text
