@@ -26,14 +26,14 @@ export default function Landing({ children }: Props) {
         <meta
           property="og:image"
           content={
-            "/moodwiser.png"
+            "https://moodwiser.co/moodwiser.png"
           }
         />
         <meta name="twitter:card" content="summary_large_image" />
         <meta property="twitter:url" content="https://moodwiser.co" />
         <meta name="twitter:title" content="MoodWiser" />
         <meta name="twitter:description" content="MoodWiser is a simple, minimalistic, useful and fun habit tracker that keeps you and your friends accountable for each other by giving praises y'all deserve to reach your goal!" />
-        <meta name="twitter:image" content="/moodwiser.png" />
+        <meta name="twitter:image" content="https://moodwiser.co/moodwiser.png" />
         <link rel="shortcut icon" href="favicon.ico" type="image/x-icon" />
         <meta name="apple-mobile-web-app-capable" content="yes" />
         <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
