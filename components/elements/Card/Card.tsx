@@ -27,7 +27,7 @@ const Card = ({ title, children, variant, data, onDelete }: Props) => {
     getPraiserLink(window.location, data.id)
   );
   return (
-    <Box borderWidth="1px" borderRadius="lg" p={2}>
+    <Box borderWidth="1px" borderRadius="lg" p={2} mb={2}>
       <Flex wrap="wrap">
         <Heading size="lg">{title}</Heading>
         {variant === "habit" && (
