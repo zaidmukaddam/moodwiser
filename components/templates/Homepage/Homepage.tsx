@@ -154,7 +154,7 @@ const HomePage = () => {
             </SimpleGrid>
             <Center mt={{ base: 4, md: 0 }}>
               <Center boxSize="md">
-                <Image shadow="lg" src="/landing.jpg" />
+                <Image shadow="lg" src="/landing.jpg" alt="wiser" />
               </Center>
             </Center>
           </SimpleGrid>
@@ -168,27 +168,27 @@ const HomePage = () => {
           <Wrap mt={20} spacing={["30px", "60px"]} justify="center">
             <WrapItem>
               <Center w="150px" h="50px">
-                <Image src="/414px-Nextjs-logo.svg.png" />
+                <Image src="/414px-Nextjs-logo.svg.png" alt="next" />
               </Center>
             </WrapItem>
             <WrapItem>
               <Center w="150px" h="50px">
-                <Image src="/vercel-inc-logo-vector.svg" />
+                <Image src="/vercel-inc-logo-vector.svg" alt="vercel" />
               </Center>
             </WrapItem>
             <WrapItem>
               <Center w="150px" h="50px">
-                <Image src="/logo-colored.svg" />
+                <Image src="/logo-colored.svg" alt="chakraUI" />
               </Center>
             </WrapItem>
             <WrapItem>
               <Center w="150px" h="50px">
-                <Image src="/logo-dark.png" />
+                <Image src="/logo-dark.png" alt="auth0" />
               </Center>
             </WrapItem>
             <WrapItem>
               <Center w="150px" h="50px">
-                <Image src="/harperdb-logo.png" />
+                <Image src="/harperdb-logo.png" alt="harperdb" />
               </Center>
             </WrapItem>
           </Wrap>
