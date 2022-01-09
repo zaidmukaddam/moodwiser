@@ -186,7 +186,7 @@ const Dashboard = () => {
             </LinkOverlay>
           </Link>
         </LinkBox>
-        <VStack align="stretch">
+        <VStack align="stretch" p={2}>
           <HabitList />
         </VStack>
       </Box>
